@@ -33,7 +33,7 @@ public class homework2 {
         int[] w = {1, 5, 3, 2, 11, 4, 5, 2, 4, 8, 9, 1};
         for (int h = 0; h < w.length; h++) {
             if (w[h] < 6) w[h] *=2;
-            System.out.print(w[h] + "\n");
+            System.out.print(w[h] + "\");
         }
     }
     //Задание4
